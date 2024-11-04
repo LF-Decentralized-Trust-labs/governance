@@ -11,6 +11,21 @@ teams:
   - hartm
   - ryjones
   - tkuhrt
+- name: paladin-admins
+  maintainers:
+  - jimthematrix
+- name: paladin-committers
+  maintainers:
+  - jimthematrix
+  members:
+  - EnriqueL8
+  - awrichar
+  - peterbroadhurst
+  - Chengxuan
+  - dwertent
+  - hosie
+  - gabriel-indik
+  - SamMayWork
 repositories:
 - name: governance
   teams:
@@ -22,3 +37,10 @@ repositories:
     lab-stewards: maintain
     security-managers: read
   visibility: public
+- name: paladin
+  teams:
+    lab-stewards: maintain
+    security-managers: read
+    paladin-admins: admin
+    paladin-committers: write
+  visibility: private
