@@ -40,7 +40,6 @@ repositories:
     visibility: public
   - name: paladin
     teams:
-      lab-stewards: maintain
       security-managers: read
       paladin-admins: admin
       paladin-committers: write
