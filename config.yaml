@@ -1,46 +1,47 @@
 teams:
-- name: lab-stewards
-  maintainers:
-  - tkuhrt
-  members:
-  - alvaropicazo
-  - mbrandenburger
-  - nidhi-singh02
-- name: security-managers
-  maintainers:
-  # - hartm
-  - ryjones
-  - tkuhrt
-- name: paladin-admins
-  maintainers:
-  - jimthematrix
-- name: paladin-committers
-  maintainers:
-  - jimthematrix
-  members:
-  - EnriqueL8
-  - awrichar
-  - peterbroadhurst
-  - Chengxuan
-  - dwertent
-  - hosie
-  - gabriel-indik
-  - SamMayWork
+  - name: lab-stewards
+    maintainers:
+      - tkuhrt
+    members:
+      - alvaropicazo
+      - mbrandenburger
+      - nidhi-singh02
+  - name: security-managers
+    maintainers:
+      - ryjones
+      - tkuhrt
+    members:
+      - hartm
+  - name: paladin-admins
+    maintainers:
+      - jimthematrix
+  - name: paladin-committers
+    maintainers:
+      - jimthematrix
+    members:
+      - EnriqueL8
+      - awrichar
+      - peterbroadhurst
+      - Chengxuan
+      - dwertent
+      - hosie
+      - gabriel-indik
+      - SamMayWork
 repositories:
-- name: governance
-  teams:
-    lab-stewards: maintain
-    security-managers: read
-  visibility: public
-- name: LF-Decentralized-Trust-labs.github.io
-  teams:
-    lab-stewards: maintain
-    security-managers: read
-  visibility: public
-- name: paladin
-  teams:
-    lab-stewards: maintain
-    security-managers: read
-    paladin-admins: admin
-    paladin-committers: write
-  visibility: public
+  - name: governance
+    teams:
+      lab-stewards: maintain
+      security-managers: read
+    visibility: public
+  - name: LF-Decentralized-Trust-labs.github.io
+    teams:
+      lab-stewards: maintain
+      security-managers: read
+    visibility: public
+  - name: paladin
+    teams:
+      lab-stewards: maintain
+      security-managers: read
+      paladin-admins: admin
+      paladin-committers: write
+    visibility: public
