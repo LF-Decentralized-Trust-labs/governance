@@ -43,4 +43,4 @@ repositories:
     security-managers: read
     paladin-admins: admin
     paladin-committers: write
-  visibility: private
+  visibility: public
