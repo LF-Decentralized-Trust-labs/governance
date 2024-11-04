@@ -8,7 +8,7 @@ teams:
   - nidhi-singh02
 - name: security-managers
   maintainers:
-  - hartm
+  # - hartm
   - ryjones
   - tkuhrt
 - name: paladin-admins
