@@ -39,12 +39,12 @@ repositories:
       lab-stewards: maintain
       security-managers: read
     visibility: public
-#  - name: LF-Decentralized-Trust-labs.github.io
-#    teams:
-#      bots: maintain
-#      lab-stewards: maintain
-#      security-managers: read
-#    visibility: public
+  - name: LF-Decentralized-Trust-labs.github.io
+    teams:
+      bots: maintain
+      lab-stewards: maintain
+      security-managers: read
+    visibility: public
   - name: paladin
     teams:
       bots: admin
