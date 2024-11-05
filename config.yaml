@@ -1,4 +1,9 @@
 teams:
+  - name: bots
+    maintainers:
+      - ryjones
+    members:
+      - lfdt-bot
   - name: lab-stewards
     maintainers:
       - tkuhrt
@@ -30,16 +35,19 @@ teams:
 repositories:
   - name: governance
     teams:
+      bots: maintain
       lab-stewards: maintain
       security-managers: read
     visibility: public
   - name: LF-Decentralized-Trust-labs.github.io
     teams:
+      bots: maintain
       lab-stewards: maintain
       security-managers: read
     visibility: public
   - name: paladin
     teams:
+      bots: admin
       security-managers: read
       paladin-admins: admin
       paladin-committers: write
