@@ -32,6 +32,13 @@ teams:
       - hosie
       - gabriel-indik
       - SamMayWork
+  - name: waterfall-committers
+    maintainers:
+      - ryjones
+    members:
+      - VladimirMezin
+      - dimrogovoy
+      - on-waterfall
 repositories:
   - name: governance
     teams:
@@ -51,4 +58,22 @@ repositories:
       security-managers: read
       paladin-admins: admin
       paladin-committers: write
+    visibility: public
+  - name: waterfall-coordinator
+    teams:
+      bots: admin
+      security-managers: read
+      waterfall-committers: maintain
+    visibility: public
+  - name: waterfall-gwat
+    teams:
+      bots: admin
+      security-managers: read
+      waterfall-committers: maintain
+    visibility: public
+  - name: waterfall-one-click-setup-app
+    teams:
+      bots: admin
+      security-managers: read
+      waterfall-committers: maintain
     visibility: public
