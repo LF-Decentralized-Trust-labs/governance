@@ -1,8 +1,12 @@
 teams:
+  - name: agora-glass-pumpkin-maintainers
+    maintainers:
+      - mikelodder7
+  - name: agora-lab-admins
+    maintainers:
+      - mikelodder7
   - name: bots
     maintainers:
-      - ryjones
-    members:
       - lfdt-bot
   - name: lab-stewards
     maintainers:
@@ -40,6 +44,46 @@ teams:
       - dimrogovoy
       - on-waterfall
 repositories:
+  - name: agora-allosaurus-rs
+    teams:
+      agora-lab-admins: admin
+      security-managers: read
+    visibility: public
+  - name: agora-bbs
+    teams:
+      agora-lab-admins: admin
+      security-managers: read
+    visibility: public
+  - name: agora-blsful
+    teams:
+      agora-glass-pumpkin-maintainers: maintain
+      agora-lab-admins: admin
+      security-managers: read
+    visibility: public
+  - name: agora-glass_pumpkin
+    teams:
+      agora-glass-pumpkin-maintainers: maintain
+      agora-lab-admins: admin
+      security-managers: read
+    visibility: public
+  - name: agora-key-share-proofs
+    teams:
+      agora-glass-pumpkin-maintainers: maintain
+      agora-lab-admins: admin
+      security-managers: read
+    visibility: public
+  - name: agora-unknown_order
+    teams:
+      agora-glass-pumpkin-maintainers: maintain
+      agora-lab-admins: admin
+      security-managers: read
+    visibility: public
+  - name: agora-verifiable-encryption
+    teams:
+      agora-glass-pumpkin-maintainers: maintain
+      agora-lab-admins: admin
+      security-managers: read
+    visibility: public
   - name: governance
     teams:
       bots: maintain
