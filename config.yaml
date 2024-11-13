@@ -43,6 +43,14 @@ teams:
       - VladimirMezin
       - dimrogovoy
       - on-waterfall
+  - name: web3db-committers
+    maintainers:
+      - tkuhrt
+    members:
+      - gpradofe
+      - showkoth
+      - IyNew
+      - tjungND
 repositories:
   - name: agora-allosaurus-rs
     teams:
@@ -120,4 +128,10 @@ repositories:
       bots: admin
       security-managers: read
       waterfall-committers: maintain
+    visibility: public
+  - name: web3db
+    teams:
+      bots: admin
+      security-managers: read
+      web3db-committers: maintain
     visibility: public
