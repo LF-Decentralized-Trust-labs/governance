@@ -21,6 +21,9 @@ teams:
       - tkuhrt
     members:
       - hartm
+  - name: one-attestation-api-maintainers
+    maintainers:
+      - bvavala
   - name: paladin-admins
     maintainers:
       - jimthematrix
@@ -102,6 +105,13 @@ repositories:
     teams:
       bots: maintain
       lab-stewards: maintain
+      security-managers: read
+    visibility: public
+  - name: one-attestation-api
+    teams:
+      bots: maintain
+      lab-stewards: maintain
+      one-attestation-api-maintainers: maintain
       security-managers: read
     visibility: public
   - name: paladin
