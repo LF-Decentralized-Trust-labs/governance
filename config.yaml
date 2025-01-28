@@ -41,11 +41,10 @@ teams:
       - SamMayWork
   - name: waterfall-committers
     maintainers:
-      - ryjones
+      - on-waterfall
     members:
       - VladimirMezin
       - dimrogovoy
-      - on-waterfall
   - name: web3db-committers
     maintainers:
       - tkuhrt
@@ -122,6 +121,12 @@ repositories:
       paladin-committers: write
     visibility: public
   - name: waterfall-coordinator
+    teams:
+      bots: admin
+      security-managers: read
+      waterfall-committers: maintain
+    visibility: public
+  - name: waterfall-docs
     teams:
       bots: admin
       security-managers: read
