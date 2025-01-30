@@ -21,6 +21,7 @@ teams:
       - tkuhrt
     members:
       - hartm
+      - jwagantall
   - name: one-attestation-api-maintainers
     maintainers:
       - bvavala
