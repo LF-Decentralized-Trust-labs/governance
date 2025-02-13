@@ -22,6 +22,12 @@ teams:
     members:
       - hartm
       - jwagantall
+  - name: librevents-maintainers
+    maintainers:
+      - tkuhrt
+    members:
+      - romanovich23
+      - adovale-IOB
   - name: one-attestation-api-maintainers
     maintainers:
       - bvavala
@@ -105,6 +111,13 @@ repositories:
     teams:
       bots: maintain
       lab-stewards: maintain
+      security-managers: read
+    visibility: public
+  - name: librevents
+    teams:
+      bots: maintain
+      lab-stewards: maintain
+      librevents-maintainers: maintain
       security-managers: read
     visibility: public
   - name: one-attestation-api
