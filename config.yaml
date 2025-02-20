@@ -46,6 +46,7 @@ teams:
       - hosie
       - gabriel-indik
       - SamMayWork
+      - annamcallister
   - name: waterfall-committers
     maintainers:
       - on-waterfall
