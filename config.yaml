@@ -28,6 +28,11 @@ teams:
     members:
       - romangzz
       - adovale-IOB
+      - IvanSaizIOB
+      - marcosio
+      - ppolo23
+      - lfrKain
+      - SergioIOB
   - name: one-attestation-api-maintainers
     maintainers:
       - bvavala
