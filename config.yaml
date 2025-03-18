@@ -8,6 +8,11 @@ teams:
   - name: bots
     maintainers:
       - lfdt-bot
+  - name: chainlaunch-maintainers
+    maintainers:
+      - ryjones
+    members:
+      - dviejokfs
   - name: lab-stewards
     maintainers:
       - tkuhrt
@@ -105,6 +110,13 @@ repositories:
     teams:
       agora-glass-pumpkin-maintainers: maintain
       agora-lab-admins: admin
+      security-managers: read
+    visibility: public
+  - name: chainlaunch
+    teams:
+      bots: maintain
+      chainlaunch-maintainers: maintain
+      lab-stewards: maintain
       security-managers: read
     visibility: public
   - name: governance
