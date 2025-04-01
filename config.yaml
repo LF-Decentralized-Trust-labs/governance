@@ -110,13 +110,13 @@ repositories:
       agora-lab-admins: admin
       security-managers: read
     visibility: public
-#  - name: chaindeploy
-#    teams:
-#      bots: maintain
-#      chaindeploy-maintainers: maintain
-#      lab-stewards: maintain
-#      security-managers: read
-#    visibility: public
+  - name: chaindeploy
+    teams:
+      bots: maintain
+      chaindeploy-maintainers: maintain
+      lab-stewards: maintain
+      security-managers: read
+    visibility: public
   - name: governance
     teams:
       bots: maintain
