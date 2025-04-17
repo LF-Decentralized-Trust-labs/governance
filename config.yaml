@@ -11,6 +11,9 @@ teams:
   - name: chaindeploy-maintainers
     maintainers:
       - dviejokfs
+  - name: fabric-rust-maintainers
+    maintainers:
+      - arne-fuchs
   - name: lab-stewards
     maintainers:
       - tkuhrt
@@ -114,6 +117,20 @@ repositories:
     teams:
       bots: maintain
       chaindeploy-maintainers: maintain
+      lab-stewards: maintain
+      security-managers: read
+    visibility: public
+  - name: fabric-sdk-rust
+    teams:
+      bots: maintain
+      fabric-rust-maintainers: maintain
+      lab-stewards: maintain
+      security-managers: read
+    visibility: public
+  - name: fabric-chaincode-rust
+    teams:
+      bots: maintain
+      fabric-rust-maintainers: maintain
       lab-stewards: maintain
       security-managers: read
     visibility: public
