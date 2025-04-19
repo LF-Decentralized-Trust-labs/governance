@@ -5,6 +5,9 @@ teams:
   - name: agora-lab-admins
     maintainers:
       - mikelodder7
+  - name: aries-labs-maintainers
+    maintainers:
+      - conanoc
   - name: bots
     maintainers:
       - lfdt-bot
@@ -111,6 +114,21 @@ repositories:
     teams:
       agora-glass-pumpkin-maintainers: maintain
       agora-lab-admins: admin
+      security-managers: read
+    visibility: public
+  - name: aries-framework-kotlin
+    teams:
+      aries-labs-maintainers: maintain
+      security-managers: read
+    visibility: public
+  - name: aries-framework-swift
+    teams:
+      aries-labs-maintainers: maintain
+      security-managers: read
+    visibility: public
+  - name: aries-uniffi-wrappers
+    teams:
+      aries-labs-maintainers: maintain
       security-managers: read
     visibility: public
   - name: chaindeploy
