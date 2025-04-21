@@ -11,6 +11,11 @@ teams:
   - name: bots
     maintainers:
       - lfdt-bot
+  - name: cbweb3-maintainers
+    maintainers:
+      - tkuhrt
+    members:
+      - neri-lacnet
   - name: chaindeploy-maintainers
     maintainers:
       - dviejokfs
@@ -129,6 +134,11 @@ repositories:
   - name: aries-uniffi-wrappers
     teams:
       aries-labs-maintainers: maintain
+      security-managers: read
+    visibility: public
+  - name: cbweb3
+    teams:
+      cbweb3-maintainers: maintain
       security-managers: read
     visibility: public
   - name: chaindeploy
