@@ -8,6 +8,8 @@ teams:
   - name: aries-labs-maintainers
     maintainers:
       - conanoc
+    members:
+      - TheTreek
   - name: bots
     maintainers:
       - lfdt-bot
