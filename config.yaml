@@ -5,6 +5,17 @@ teams:
   - name: agora-lab-admins
     maintainers:
       - mikelodder7
+  - name: aries-bbs-maintainers
+    maintainers:
+      - lfdt-bot
+    members:
+      - WadeBarnes
+      - andrewwhitehead
+#    members:
+      - TimoGlastra
+      - berendsliedrecht
+      - mikelodder7
+      - swcurran
   - name: aries-labs-maintainers
     maintainers:
       - conanoc
@@ -128,6 +139,11 @@ repositories:
     teams:
       agora-glass-pumpkin-maintainers: maintain
       agora-lab-admins: admin
+      security-managers: read
+    visibility: public
+  - name: aries-bbssignatures-rs
+    teams:
+      aries-bbs-maintainers: maintain
       security-managers: read
     visibility: public
   - name: aries-framework-kotlin
