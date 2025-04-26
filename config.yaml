@@ -35,13 +35,6 @@ teams:
   - name: fabric-rust-maintainers
     maintainers:
       - arne-fuchs
-  - name: fabric-chaincode-builder-maintainers
-    maintainers:
-      - tkuhrt
-    members:
-      - Thomas-Leung
-      - shoaebjindani
-      - MuthuSundaravadivel
   - name: lab-stewards
     maintainers:
       - tkuhrt
@@ -184,13 +177,6 @@ repositories:
     teams:
       bots: maintain
       fabric-rust-maintainers: maintain
-      lab-stewards: maintain
-      security-managers: read
-    visibility: public
-  - name: fabric-chaincode-builder
-    teams:
-      bots: maintain
-      fabric-chaincode-builder-maintainers: maintain
       lab-stewards: maintain
       security-managers: read
     visibility: public
