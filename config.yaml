@@ -7,15 +7,13 @@ teams:
       - mikelodder7
   - name: aries-bbs-maintainers
     maintainers:
-      - lfdt-bot
-    members:
-      - WadeBarnes
       - andrewwhitehead
-#    members:
+      - swcurran
+    members:
       - TimoGlastra
+      - WadeBarnes
       - berendsliedrecht
       - mikelodder7
-      - swcurran
   - name: aries-labs-maintainers
     maintainers:
       - conanoc
@@ -26,7 +24,7 @@ teams:
       - lfdt-bot
   - name: cbweb3-maintainers
     maintainers:
-      - tkuhrt
+      - lfdt-bot
     members:
       - neri-lacnet
   - name: chaindeploy-maintainers
@@ -35,6 +33,15 @@ teams:
   - name: fabric-rust-maintainers
     maintainers:
       - arne-fuchs
+  - name: hoprs-maintainers
+    maintainers:
+      - lfdt-bot
+    members:
+      - Alex-OpenOrigins
+      - artem-openorigins
+      - henrikcox 
+      - humannyty
+      - mattnbrown
   - name: lab-stewards
     maintainers:
       - tkuhrt
@@ -51,11 +58,10 @@ teams:
       - jwagantall
   - name: librevents-maintainers
     maintainers:
-      - tkuhrt
-    members:
       - romangzz
       - adovale-IOB
       - IvanSaizIOB
+    members:
       - marcosio
       - ppolo23
       - lfrKain
@@ -87,10 +93,9 @@ teams:
       - dimrogovoy
   - name: web3db-committers
     maintainers:
-      - tkuhrt
-    members:
       - gpradofe
       - showkoth
+    members:
       - IyNew
       - tjungND
 repositories:
