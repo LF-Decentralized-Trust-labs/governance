@@ -197,13 +197,13 @@ repositories:
       lab-stewards: maintain
       security-managers: read
     visibility: public
-#  - name: naryo
-#    teams:
-#      bots: maintain
-#      lab-stewards: maintain
-#      naryo-maintainers: maintain
-#      security-managers: read
-#    visibility: public
+  - name: Naryo
+    teams:
+      bots: maintain
+      lab-stewards: maintain
+      naryo-maintainers: maintain
+      security-managers: read
+    visibility: public
   - name: one-attestation-api
     teams:
       bots: maintain
