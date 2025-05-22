@@ -56,7 +56,7 @@ teams:
     members:
       - hartm
       - jwagantall
-  - name: librevents-maintainers
+  - name: naryo-maintainers
     maintainers:
       - romangzz
       - adovale-IOB
@@ -197,13 +197,13 @@ repositories:
       lab-stewards: maintain
       security-managers: read
     visibility: public
-  - name: librevents
-    teams:
-      bots: maintain
-      lab-stewards: maintain
-      librevents-maintainers: maintain
-      security-managers: read
-    visibility: public
+#  - name: naryo
+#    teams:
+#      bots: maintain
+#      lab-stewards: maintain
+#      naryo-maintainers: maintain
+#      security-managers: read
+#    visibility: public
   - name: one-attestation-api
     teams:
       bots: maintain
