@@ -185,6 +185,13 @@ repositories:
       lab-stewards: maintain
       security-managers: read
     visibility: public
+  - name: HOPrS
+    teams:
+      bots: maintain
+      hoprs-maintainers: maintain
+      lab-stewards: maintain
+      security-managers: read
+    visibility: public
   - name: governance
     teams:
       bots: maintain
