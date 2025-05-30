@@ -35,13 +35,12 @@ teams:
       - arne-fuchs
   - name: hoprs-maintainers
     maintainers:
-      - lfdt-bot
+      - mattnbrown
     members:
       - Alex-OpenOrigins
       - artem-openorigins
       - Henrikcox 
       - humannyty
-      - mattnbrown
   - name: lab-stewards
     maintainers:
       - tkuhrt
