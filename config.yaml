@@ -98,6 +98,11 @@ teams:
     members:
       - IyNew
       - tjungND
+  - name: zk-learning-group-committers
+    maintainers:
+      - ryjones
+    members:
+      - Daniel-Szego
 repositories:
   - name: agora-allosaurus-rs
     teams:
@@ -254,4 +259,10 @@ repositories:
       bots: admin
       security-managers: read
       web3db-committers: maintain
+    visibility: public
+  - name: zk-learning-group
+    teams:
+      bots: admin
+      security-managers: read
+      zk-learning-group-committers: maintain
     visibility: public
