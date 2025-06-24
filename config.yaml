@@ -65,6 +65,8 @@ teams:
       - ppolo23
       - lfrKain
       - SergioIOB
+      - franpersanchez
+      - mtxasko
   - name: one-attestation-api-maintainers
     maintainers:
       - bvavala
