@@ -24,9 +24,9 @@ teams:
       - lfdt-bot
   - name: cbweb3-maintainers
     maintainers:
-      - lfdt-bot
-    members:
       - neri-lacnet
+    members:
+      - carolacchain
   - name: chaindeploy-maintainers
     maintainers:
       - dviejokfs
