@@ -10,9 +10,7 @@ teams:
       - andrewwhitehead
       - swcurran
     members:
-      - TimoGlastra
       - WadeBarnes
-      - berendsliedrecht
       - mikelodder7
   - name: aries-labs-maintainers
     maintainers:
