@@ -25,6 +25,11 @@ teams:
       - neri-lacnet
     members:
       - carolacchain
+      - MaxMitre
+      - BernardoPaniaguaCemla
+      - JulioRodB
+      - nayamhb1
+      - leninortiz
   - name: chaindeploy-maintainers
     maintainers:
       - dviejokfs
