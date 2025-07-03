@@ -90,6 +90,7 @@ teams:
       - SamMayWork
       - annamcallister
       - matthew1001
+      - mjc-dev 
   - name: waterfall-committers
     maintainers:
       - on-waterfall
