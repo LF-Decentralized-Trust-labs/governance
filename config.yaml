@@ -24,12 +24,13 @@ teams:
     maintainers:
       - neri-lacnet
     members:
-      - carolacchain
-      - MaxMitre
       - BernardoPaniaguaCEMLA
       - JulioRodB
-      - nayamhb1
+      - MaxMitre
+      - carolacchain
+      - jferreira9620
       - leninortiz
+      - nayamhb1
   - name: chaindeploy-maintainers
     maintainers:
       - dviejokfs
