@@ -34,6 +34,12 @@ teams:
   - name: chaindeploy-maintainers
     maintainers:
       - dviejokfs
+  - name: fabric-x-ansible-collection-maintainers
+    maintainers:
+      - ryjones
+    members:
+      - iliecirciumaru
+      - pasquale95
   - name: fabric-rust-maintainers
     maintainers:
       - arne-fuchs
@@ -180,6 +186,13 @@ repositories:
     teams:
       bots: maintain
       chaindeploy-maintainers: maintain
+      lab-stewards: maintain
+      security-managers: read
+    visibility: public
+  - name: fabric-x-ansible-collection
+    teams:
+      bots: maintain
+      fabric-x-ansible-collection-maintainers: maintain
       lab-stewards: maintain
       security-managers: read
     visibility: public
