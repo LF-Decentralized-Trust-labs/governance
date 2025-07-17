@@ -36,9 +36,8 @@ teams:
       - dviejokfs
   - name: fabric-x-ansible-collection-maintainers
     maintainers:
-      - ryjones
-    members:
       - iliecirciumaru
+    members:
       - pasquale95
   - name: fabric-rust-maintainers
     maintainers:
