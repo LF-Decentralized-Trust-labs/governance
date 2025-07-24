@@ -97,11 +97,10 @@ teams:
       - annamcallister
       - matthew1001
       - mjc-dev 
-  - name: veratz-committers
+  - name: verazt-committers
     maintainers:
-      - ryjones
-    members:
       - taquangtrung
+    members:
       - cassc
       - minhhn2910
       - thanhtoantnt
@@ -257,11 +256,11 @@ repositories:
       paladin-admins: admin
       paladin-committers: write
     visibility: public
-  - name: veratz
+  - name: verazt
     teams:
       bots: admin
       security-managers: read
-      veratz-committers: write
+      verazt-committers: write
     visibility: public
   - name: waterfall-coordinator
     teams:
