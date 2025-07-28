@@ -8,6 +8,7 @@ teams:
   - name: agora-key-share-proofs-maintainers
     maintainers:
       - mikelodder7
+    members:
       - nglaeser
   - name: aries-bbs-maintainers
     maintainers:
