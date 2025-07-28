@@ -5,6 +5,10 @@ teams:
   - name: agora-lab-admins
     maintainers:
       - mikelodder7
+  - name: agora-key-share-proofs-maintainers
+    maintainers:
+      - mikelodder7
+      - nglaeser
   - name: aries-bbs-maintainers
     maintainers:
       - andrewwhitehead
@@ -147,7 +151,7 @@ repositories:
     visibility: public
   - name: agora-key-share-proofs
     teams:
-      agora-glass-pumpkin-maintainers: maintain
+      agora-key-share-proofs-maintainers: maintain
       agora-lab-admins: admin
       security-managers: read
     visibility: public
