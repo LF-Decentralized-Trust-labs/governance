@@ -39,6 +39,12 @@ teams:
   - name: chaindeploy-maintainers
     maintainers:
       - dviejokfs
+  - name: dedi-maintainers
+    maintainers:
+      - amarts
+    members:
+      - pramodkvarma
+      - surendrasinghs
   - name: fabric-x-ansible-collection-maintainers
     maintainers:
       - iliecirciumaru
@@ -200,6 +206,13 @@ repositories:
     teams:
       bots: maintain
       chaindeploy-maintainers: maintain
+      lab-stewards: maintain
+      security-managers: read
+    visibility: public
+  - name: DeDi
+    teams:
+      bots: maintain
+      dedi-maintainers: maintain
       lab-stewards: maintain
       security-managers: read
     visibility: public
