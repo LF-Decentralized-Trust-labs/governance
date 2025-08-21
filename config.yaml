@@ -39,6 +39,16 @@ teams:
   - name: chaindeploy-maintainers
     maintainers:
       - dviejokfs
+  - name: contributors-site-maintainers
+    maintainers:
+      - tkuhrt
+    members:
+      - dmueller2001
+      - arsulegai
+      - cjhowland
+      - petermetz
+      - ryjones
+      - jwagantall
   - name: fabric-x-ansible-collection-maintainers
     maintainers:
       - iliecirciumaru
@@ -200,6 +210,13 @@ repositories:
     teams:
       bots: maintain
       chaindeploy-maintainers: maintain
+      lab-stewards: maintain
+      security-managers: read
+    visibility: public
+  - name: contributors-site
+    teams:
+      bots: maintain
+      contributors-site-maintainers: maintain
       lab-stewards: maintain
       security-managers: read
     visibility: public
