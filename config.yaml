@@ -153,8 +153,6 @@ teams:
       - tjungND
   - name: zk-learning-group-committers
     maintainers:
-      - ryjones
-    members:
       - Daniel-Szego
 repositories:
   - name: agora-allosaurus-rs
