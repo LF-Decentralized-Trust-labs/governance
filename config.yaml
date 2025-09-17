@@ -63,6 +63,12 @@ teams:
   - name: fabric-rust-maintainers
     maintainers:
       - arne-fuchs
+  - name: hypernate-maintainers
+    maintainers:
+      - ryjones
+    members:
+      - aklenik
+      - bzp99
   - name: hoprs-maintainers
     maintainers:
       - mattnbrown
@@ -266,6 +272,20 @@ repositories:
     teams:
       bots: maintain
       hoprs-maintainers: maintain
+      lab-stewards: maintain
+      security-managers: read
+    visibility: public
+  - name: hypernate
+    teams:
+      bots: maintain
+      hypernate-maintainers: maintain
+      lab-stewards: maintain
+      security-managers: read
+    visibility: public
+  - name: hypernate-samples
+    teams:
+      bots: maintain
+      hypernate-maintainers: maintain
       lab-stewards: maintain
       security-managers: read
     visibility: public
