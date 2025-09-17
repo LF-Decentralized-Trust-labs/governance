@@ -65,9 +65,8 @@ teams:
       - arne-fuchs
   - name: hypernate-maintainers
     maintainers:
-      - ryjones
-    members:
       - aklenik
+    members:
       - bzp99
   - name: hoprs-maintainers
     maintainers:
