@@ -73,10 +73,7 @@ teams:
     maintainers:
       - mattnbrown
     members:
-      - Alex-OpenOrigins
-      - artem-openorigins
       - Henrikcox 
-      - humannyty
   - name: lab-stewards
     maintainers:
       - tkuhrt
@@ -88,7 +85,6 @@ teams:
       - EnriqueL8
       - hendrikebbers
       - matthew1001
-      - mbrandenburger
       - mbrandenburger
       - nidhi-singh02
       - petermetz
@@ -141,15 +137,10 @@ teams:
       - cassc
       - minhhn2910
       - ooibc
-      - ooibc88
-      - thanhtoantnt
       - xkxiao
   - name: waterfall-committers
     maintainers:
       - on-waterfall
-    members:
-      - VladimirMezin
-      - dimrogovoy
   - name: web3db-committers
     maintainers:
       - gpradofe
