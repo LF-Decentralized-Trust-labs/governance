@@ -147,6 +147,16 @@ teams:
     members:
       - IyNew
       - tjungND
+  - name: zkbk-committers
+    maintainers:
+      - ryjones
+    members:
+      - rsinha
+      - Arka19
+      - guruvamsi-policharla
+      - hartm
+      - keewoolee
+      - sanjamg
   - name: zk-learning-group-committers
     maintainers:
       - Daniel-Szego
@@ -347,6 +357,12 @@ repositories:
       bots: admin
       security-managers: read
       web3db-committers: maintain
+    visibility: public
+  - name: zkbk
+    teams:
+      bots: admin
+      security-managers: read
+      zkbk-committers: maintain
     visibility: public
   - name: zk-learning-group
     teams:
