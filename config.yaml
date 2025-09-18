@@ -358,7 +358,7 @@ repositories:
       security-managers: read
       web3db-committers: maintain
     visibility: public
-  - name: zkbk-committers
+  - name: zkbk
     teams:
       bots: admin
       security-managers: read
