@@ -28,14 +28,23 @@ teams:
   - name: cbweb3-maintainers
     maintainers:
       - neri-lacnet
+      - carolacnet
     members:
       - BernardoPaniaguaCEMLA
       - JulioRodB
       - MaxMitre
-      - carolacnet
       - jferreira9620
       - leninortiz
-      - nayamhb1
+      - nayamhb
+      - Andres-BCRD
+      - jushua
+      - Hchitman
+      - camposmm-mar
+      - betoencinas
+      - josegabrielsv
+      - lddia
+      - sergiobcrd
+      - markymark021282
   - name: chaindeploy-maintainers
     maintainers:
       - dviejokfs
