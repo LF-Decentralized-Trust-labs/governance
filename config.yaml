@@ -72,6 +72,11 @@ teams:
   - name: fabric-rust-maintainers
     maintainers:
       - arne-fuchs
+  - name: gitmesh-committers
+    maintainers:
+      - rawx18
+      - parvm1102
+      - ronit-raj9
   - name: hypernate-maintainers
     maintainers:
       - aklenik
