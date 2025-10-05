@@ -75,6 +75,7 @@ teams:
   - name: gitmesh-committers
     maintainers:
       - rawx18
+    members:
       - parvm1102
       - ronit-raj9
   - name: hypernate-maintainers
