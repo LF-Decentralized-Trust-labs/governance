@@ -72,6 +72,11 @@ teams:
   - name: fabric-rust-maintainers
     maintainers:
       - arne-fuchs
+  - name: gitmesh-committers
+    maintainers:
+      - RAWx18
+    members:
+      - Parvm1102
   - name: hypernate-maintainers
     maintainers:
       - aklenik
@@ -277,6 +282,13 @@ repositories:
       lab-stewards: maintain
       security-managers: read
     visibility: public
+  - name: gitmesh
+    teams:
+      bots: maintain
+      gitmesh-committers: maintain
+      lab-stewards: maintain
+      security-managers: read
+    visibility: public  
   - name: HOPrS
     teams:
       bots: maintain
