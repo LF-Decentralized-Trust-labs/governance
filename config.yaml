@@ -174,6 +174,9 @@ teams:
   - name: zk-learning-group-committers
     maintainers:
       - Daniel-Szego
+  - name: zkproof-polycommit-committers
+    maintainers:
+      - therealyingtong
 repositories:
   - name: agora-allosaurus-rs
     teams:
@@ -390,4 +393,10 @@ repositories:
       bots: admin
       security-managers: read
       zk-learning-group-committers: maintain
+    visibility: public
+  - name: zkproof-polycommit
+    teams:
+      bots: admin
+      security-managers: read
+      zkproof-polycommit-committers: maintain
     visibility: public
