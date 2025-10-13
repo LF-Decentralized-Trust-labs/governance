@@ -27,7 +27,6 @@ teams:
       - lfdt-bot
   - name: cbweb3-maintainers
     maintainers:
-      - neri-lacnet
       - carolacnet
     members:
       - BernardoPaniaguaCEMLA
@@ -36,6 +35,7 @@ teams:
       - jferreira9620
       - leninortiz
       - nayamhb
+      - neri-lacnet
       - Andres-BCRD
       - jushua
       - HChitman
