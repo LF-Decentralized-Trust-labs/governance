@@ -85,7 +85,13 @@ teams:
     maintainers:
       - mattnbrown
     members:
-      - Henrikcox 
+      - Henrikcox
+  - name: identity-bot-maintainers
+    maintainers:
+      - ryjones
+    members:
+      - bobert600
+      - chemerisuk
   - name: lab-stewards
     maintainers:
       - tkuhrt
@@ -141,7 +147,7 @@ teams:
       - SamMayWork
       - annamcallister
       - matthew1001
-      - mjc-dev 
+      - mjc-dev
   - name: verazt-committers
     maintainers:
       - taquangtrung
@@ -290,7 +296,7 @@ repositories:
       gitmesh-committers: maintain
       lab-stewards: maintain
       security-managers: read
-    visibility: public  
+    visibility: public
   - name: HOPrS
     teams:
       bots: maintain
@@ -309,6 +315,13 @@ repositories:
     teams:
       bots: maintain
       hypernate-maintainers: maintain
+      lab-stewards: maintain
+      security-managers: read
+    visibility: public
+  - name: identity-bot
+    teams:
+      bots: maintain
+      identity-bot-maintainers: maintain
       lab-stewards: maintain
       security-managers: read
     visibility: public
