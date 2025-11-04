@@ -51,7 +51,7 @@ teams:
   - name: chaindeploy-maintainers
     maintainers:
       - dviejokfs
-  - name: dedi-maintainers
+  - name: decentralized-directory-protocol-maintainers
     maintainers:
       - amarts
     members:
@@ -242,13 +242,13 @@ repositories:
       lab-stewards: maintain
       security-managers: read
     visibility: public
-  - name: DeDi
-    teams:
-      bots: maintain
-      dedi-maintainers: maintain
-      lab-stewards: maintain
-      security-managers: read
-    visibility: public
+#  - name: decentralized-directory-protocol
+#    teams:
+#      bots: maintain
+#      dedi-maintainers: maintain
+#      lab-stewards: maintain
+#      security-managers: read
+#    visibility: public
   - name: contributors-site
     teams:
       bots: maintain
