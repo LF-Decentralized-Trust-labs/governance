@@ -242,13 +242,13 @@ repositories:
       lab-stewards: maintain
       security-managers: read
     visibility: public
-#  - name: decentralized-directory-protocol
-#    teams:
-#      bots: maintain
-#      dedi-maintainers: maintain
-#      lab-stewards: maintain
-#      security-managers: read
-#    visibility: public
+  - name: decentralized-directory-protocol
+    teams:
+      bots: maintain
+      decentralized-directory-protocol-maintainers: maintain
+      lab-stewards: maintain
+      security-managers: read
+    visibility: public
   - name: contributors-site
     teams:
       bots: maintain
