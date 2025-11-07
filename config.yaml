@@ -57,16 +57,6 @@ teams:
     members:
       - pramodkvarma
       - surendrasinghs
-  - name: contributors-site-maintainers
-    maintainers:
-      - tkuhrt
-    members:
-      - dmueller2001
-      - arsulegai
-      - cjhowland
-      - petermetz
-      - ryjones
-      - jwagantall
   - name: fabino-test-maintainers
     maintainers:
       - ryjones
@@ -244,13 +234,6 @@ repositories:
     teams:
       bots: maintain
       chaindeploy-maintainers: maintain
-      lab-stewards: maintain
-      security-managers: read
-    visibility: public
-  - name: contributors-site
-    teams:
-      bots: maintain
-      contributors-site-maintainers: maintain
       lab-stewards: maintain
       security-managers: read
     visibility: public
