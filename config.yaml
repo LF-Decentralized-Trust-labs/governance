@@ -67,6 +67,11 @@ teams:
       - petermetz
       - ryjones
       - jwagantall
+  - name: fabino-test-maintainers
+    maintainers:
+      - ryjones
+    members:
+      - aminchegeni
   - name: fabric-x-ansible-collection-maintainers
     maintainers:
       - iliecirciumaru
@@ -242,6 +247,13 @@ repositories:
       lab-stewards: maintain
       security-managers: read
     visibility: public
+  - name: contributors-site
+    teams:
+      bots: maintain
+      contributors-site-maintainers: maintain
+      lab-stewards: maintain
+      security-managers: read
+    visibility: public
   - name: decentralized-directory-protocol
     teams:
       bots: maintain
@@ -249,10 +261,10 @@ repositories:
       lab-stewards: maintain
       security-managers: read
     visibility: public
-  - name: contributors-site
+  - name: fabino-test
     teams:
       bots: maintain
-      contributors-site-maintainers: maintain
+      fabino-test-maintainers: maintain
       lab-stewards: maintain
       security-managers: read
     visibility: public
