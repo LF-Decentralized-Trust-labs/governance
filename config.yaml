@@ -48,6 +48,7 @@ teams:
       - LFJeronymo
       - andremacedopv
       - lucas-campelo
+      - goledger
   - name: chaindeploy-maintainers
     maintainers:
       - dviejokfs
