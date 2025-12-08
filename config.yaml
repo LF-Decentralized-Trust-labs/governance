@@ -106,24 +106,20 @@ teams:
       - chemerisuk
   - name: lab-stewards
     maintainers:
-      - tkuhrt
+      - mbrandenburger
     members:
       - alvaropicazo
       - arsulegai
-      - cjhowland
       - dmueller2001
       - EnriqueL8
       - hendrikebbers
       - matthew1001
-      - mbrandenburger
       - nidhi-singh02
-      - petermetz
       - VRamakrishna
       - wenjing
   - name: security-managers
     maintainers:
       - ryjones
-      - tkuhrt
     members:
       - hartm
       - jwagantall
