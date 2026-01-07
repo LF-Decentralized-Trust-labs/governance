@@ -85,6 +85,9 @@ teams:
   - name: fabric-rust-maintainers
     maintainers:
       - arne-fuchs
+  - name: flavum-maintainers
+    maintainers:
+      - Daniel-Szego
   - name: gitmesh-committers
     maintainers:
       - RAWx18
@@ -288,6 +291,13 @@ repositories:
     teams:
       bots: maintain
       fabric-rust-maintainers: maintain
+      lab-stewards: maintain
+      security-managers: read
+    visibility: public
+  - name: flavum
+    teams:
+      bots: maintain
+      flavum-maintainers: maintain
       lab-stewards: maintain
       security-managers: read
     visibility: public
