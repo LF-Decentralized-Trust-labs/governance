@@ -367,13 +367,13 @@ repositories:
       one-attestation-api-maintainers: maintain
       security-managers: read
     visibility: public
-#  - name: opendecentra-nextg
-#    teams:
-#      bots: maintain
-#      lab-stewards: maintain
-#      opendecentra-nextg-maintainers: maintain
-#      security-managers: read
-#    visibility: public
+  - name: opendecentra-nextg
+    teams:
+      bots: maintain
+      lab-stewards: maintain
+      opendecentra-nextg-maintainers: maintain
+      security-managers: read
+    visibility: public
   - name: verazt
     teams:
       bots: admin
