@@ -170,13 +170,6 @@ teams:
   - name: waterfall-committers
     maintainers:
       - on-waterfall
-  - name: web3db-committers
-    maintainers:
-      - gpradofe
-      - showkoth
-    members:
-      - IyNew
-      - tjungND
   - name: zkbk-committers
     maintainers:
       - ryjones
@@ -415,12 +408,6 @@ repositories:
       bots: admin
       security-managers: read
       waterfall-committers: maintain
-    visibility: public
-  - name: web3db
-    teams:
-      bots: admin
-      security-managers: read
-      web3db-committers: maintain
     visibility: public
   - name: zkbk
     teams:
