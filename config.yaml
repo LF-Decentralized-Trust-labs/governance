@@ -138,6 +138,11 @@ teams:
       - ryjones
     members:
       - Rudrakshrawal
+  - name: openvtc-maintainers
+    maintainers:
+      - ryjones
+    members:
+      - stormer78
   - name: security-managers
     maintainers:
       - ryjones
@@ -377,6 +382,27 @@ repositories:
       bots: maintain
       lab-stewards: maintain
       opendecentra-nextg-maintainers: maintain
+      security-managers: read
+    visibility: public
+  - name: verifiable-trust-infrastructure
+    teams:
+      bots: maintain
+      lab-stewards: maintain
+      openvtc-maintainers: maintain
+      security-managers: read
+    visibility: public
+  - name: dtg-credentials
+    teams:
+      bots: maintain
+      lab-stewards: maintain
+      openvtc-maintainers: maintain
+      security-managers: read
+    visibility: public
+  - name: openvtc
+    teams:
+      bots: maintain
+      lab-stewards: maintain
+      openvtc-maintainers: maintain
       security-managers: read
     visibility: public
   - name: verazt
