@@ -24,9 +24,8 @@ teams:
       - TheTreek
   - name: artizyou-maintainers
     maintainers:
-      - ryjones
-    members:
       - MuhammadRizwanMughal
+    members:
       - SamDrissi
       - rgagnon
   - name: bots
@@ -77,8 +76,6 @@ teams:
       - surendrasinghs
   - name: fabino-test-maintainers
     maintainers:
-      - ryjones
-    members:
       - aminchegeni
   - name: fabric-x-ansible-collection-maintainers
     maintainers:
@@ -87,8 +84,6 @@ teams:
       - pasquale95
   - name: fabric-x-block-explorer-committers
     maintainers:
-      - ryjones
-    members:
       - farooqazamwasimnl
   - name: fabric-rust-maintainers
     maintainers:
@@ -114,9 +109,8 @@ teams:
       - Henrikcox
   - name: identity-bot-maintainers
     maintainers:
-      - ryjones
-    members:
       - bobert600
+    members:
       - chemerisuk
   - name: lab-stewards
     maintainers:
@@ -135,13 +129,9 @@ teams:
       - VRamakrishna
   - name: opendecentra-nextg-maintainers
     maintainers:
-      - ryjones
-    members:
       - Rudrakshrawal
   - name: openvtc-maintainers
     maintainers:
-      - ryjones
-    members:
       - stormer78
   - name: security-managers
     maintainers:
@@ -177,9 +167,8 @@ teams:
       - on-waterfall
   - name: zkbk-committers
     maintainers:
-      - ryjones
-    members:
       - rsinha
+    members:
       - Arka19
       - guruvamsi-policharla
       - hartm
