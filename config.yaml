@@ -136,6 +136,11 @@ teams:
   - name: openvtc-maintainers
     maintainers:
       - stormer78
+  - name: proof-of-process-maintainers
+    maintainers:
+      - ryjones
+    members:
+      - dcondrey
   - name: security-managers
     maintainers:
       - ryjones
@@ -374,6 +379,13 @@ repositories:
       bots: maintain
       lab-stewards: maintain
       opendecentra-nextg-maintainers: maintain
+      security-managers: read
+    visibility: public
+  - name: proof-of-process
+    teams:
+      bots: maintain
+      lab-stewards: maintain
+      proof-of-process-maintainers: maintain
       security-managers: read
     visibility: public
   - name: verifiable-trust-infrastructure
