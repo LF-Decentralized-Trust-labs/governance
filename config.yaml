@@ -133,9 +133,6 @@ teams:
   - name: opendecentra-nextg-maintainers
     maintainers:
       - Rudrakshrawal
-  - name: openvtc-maintainers
-    maintainers:
-      - stormer78
   - name: proof-of-process-maintainers
     maintainers:
       - ryjones
@@ -386,27 +383,6 @@ repositories:
       bots: maintain
       lab-stewards: maintain
       proof-of-process-maintainers: maintain
-      security-managers: read
-    visibility: public
-  - name: verifiable-trust-infrastructure
-    teams:
-      bots: maintain
-      lab-stewards: maintain
-      openvtc-maintainers: maintain
-      security-managers: read
-    visibility: public
-  - name: dtg-credentials
-    teams:
-      bots: maintain
-      lab-stewards: maintain
-      openvtc-maintainers: maintain
-      security-managers: read
-    visibility: public
-  - name: openvtc
-    teams:
-      bots: maintain
-      lab-stewards: maintain
-      openvtc-maintainers: maintain
       security-managers: read
     visibility: public
   - name: verazt
