@@ -135,9 +135,12 @@ teams:
       - Rudrakshrawal
   - name: proof-of-process-maintainers
     maintainers:
-      - ryjones
-    members:
       - dcondrey
+    members: []
+  - name: proof-of-process-admins
+    maintainers:
+      - dcondrey
+    members: []
   - name: security-managers
     maintainers:
       - ryjones
@@ -382,6 +385,7 @@ repositories:
     teams:
       bots: maintain
       lab-stewards: maintain
+      proof-of-process-admins: admin
       proof-of-process-maintainers: maintain
       security-managers: read
     visibility: public
