@@ -110,9 +110,10 @@ teams:
       - bzp99
   - name: hoprs-maintainers
     maintainers:
-      - mattnbrown
+      - ryjones
     members:
-      - Henrikcox
+      - humannyty
+      - dxnn
   - name: identity-bot-maintainers
     maintainers:
       - bobert600
