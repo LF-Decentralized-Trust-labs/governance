@@ -134,6 +134,11 @@ teams:
       - OsamaRab3
       - tock-ibm
       - VRamakrishna
+  - name: onboard-diagnostics-maintainers
+    maintainers:
+      - ryjones
+    members:
+      - Mateja3m
   - name: opendecentra-nextg-maintainers
     maintainers:
       - Rudrakshrawal
@@ -369,6 +374,13 @@ repositories:
       bots: maintain
       lab-stewards: maintain
       naryo-maintainers: maintain
+      security-managers: read
+    visibility: public
+  - name: onboard-diagnostics
+    teams:
+      bots: maintain
+      lab-stewards: maintain
+      onboard-diagnostics-maintainers: maintain
       security-managers: read
     visibility: public
   - name: one-attestation-api
