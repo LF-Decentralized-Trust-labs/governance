@@ -134,6 +134,11 @@ teams:
       - OsamaRab3
       - tock-ibm
       - VRamakrishna
+  - name: os-frontiers-maintainers
+    maintainers:
+      - ryjones
+    members:
+      - ThatGuyLLC
   - name: onboard-diagnostics-maintainers
     maintainers:
       - ryjones
@@ -376,6 +381,13 @@ repositories:
       naryo-maintainers: maintain
       security-managers: read
     visibility: public
+  - name: os-frontiers
+    teams:
+      bots: maintain
+      lab-stewards: maintain
+      os-frontiers-maintainers: maintain
+      security-managers: read
+    visibility: public
   - name: onboard-diagnostics
     teams:
       bots: maintain
@@ -383,6 +395,7 @@ repositories:
       onboard-diagnostics-maintainers: maintain
       security-managers: read
     visibility: public
+
   - name: one-attestation-api
     teams:
       bots: maintain
