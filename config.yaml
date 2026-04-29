@@ -10,6 +10,11 @@ teams:
       - mikelodder7
     members:
       - nglaeser
+  - name: ap3-maintainers
+    maintainers:
+      - ryjones
+    members:
+      - fridgebuyer
   - name: aries-bbs-maintainers
     maintainers:
       - andrewwhitehead
@@ -243,6 +248,11 @@ repositories:
       agora-lab-admins: admin
       security-managers: read
     visibility: public
+#  - name: ap3
+#    teams:
+#      ap3-maintainers: maintain
+#      security-managers: read
+#    visibility: public
   - name: aries-bbssignatures-rs
     teams:
       aries-bbs-maintainers: maintain
