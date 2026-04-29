@@ -14,7 +14,12 @@ teams:
     maintainers:
       - ryjones
     members:
+      - Paintedstork28
+      - aditya-67
+      - dansilence
       - fridgebuyer
+      - jaysilence
+      - yogendra-silencelabs
   - name: aries-bbs-maintainers
     maintainers:
       - andrewwhitehead
@@ -248,11 +253,11 @@ repositories:
       agora-lab-admins: admin
       security-managers: read
     visibility: public
-#  - name: ap3
-#    teams:
-#      ap3-maintainers: maintain
-#      security-managers: read
-#    visibility: public
+  - name: ap3
+    teams:
+      ap3-maintainers: maintain
+      security-managers: read
+    visibility: public
   - name: aries-bbssignatures-rs
     teams:
       aries-bbs-maintainers: maintain
