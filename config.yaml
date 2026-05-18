@@ -435,19 +435,7 @@ repositories:
       security-managers: read
       verazt-committers: write
     visibility: public
-  - name: waterfall-coordinator
-    teams:
-      bots: admin
-      security-managers: read
-      waterfall-committers: maintain
-    visibility: public
   - name: waterfall-docs
-    teams:
-      bots: admin
-      security-managers: read
-      waterfall-committers: maintain
-    visibility: public
-  - name: waterfall-gwat
     teams:
       bots: admin
       security-managers: read
