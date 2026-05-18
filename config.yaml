@@ -79,6 +79,7 @@ teams:
   - name: decentralized-directory-protocol-maintainers
     maintainers:
       - amarts
+      - anusree-j
     members:
       - pramodkvarma
       - surendrasinghs
