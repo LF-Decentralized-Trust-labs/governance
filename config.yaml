@@ -161,6 +161,11 @@ teams:
     maintainers:
       - dcondrey
     members: []
+  - name: rethv-maintainers
+    maintainers:
+      - ryjones
+    members:
+      - salaheldinsoliman
   - name: security-managers
     maintainers:
       - ryjones
@@ -406,7 +411,6 @@ repositories:
       onboard-diagnostics-maintainers: maintain
       security-managers: read
     visibility: public
-
   - name: one-attestation-api
     teams:
       bots: maintain
@@ -427,6 +431,13 @@ repositories:
       lab-stewards: maintain
       proof-of-process-admins: admin
       proof-of-process-maintainers: maintain
+      security-managers: read
+    visibility: public
+  - name: rethv
+    teams:
+      bots: maintain
+      lab-stewards: maintain
+      rethv-maintainers: maintain
       security-managers: read
     visibility: public
   - name: verazt
