@@ -195,6 +195,13 @@ teams:
       - minhhn2910
       - ooibc
       - xkxiao
+  - name: veltoracore-committers
+    maintainers:
+      - ryjones
+    members:
+      - begrossi
+      - henrique-videira
+      - raijoma123
   - name: waterfall-committers
     maintainers:
       - on-waterfall
@@ -445,6 +452,12 @@ repositories:
       bots: admin
       security-managers: read
       verazt-committers: write
+    visibility: public
+  - name: veltoracore
+    teams:
+      bots: admin
+      security-managers: read
+      veltoracore-committers: write
     visibility: public
   - name: waterfall-docs
     teams:
