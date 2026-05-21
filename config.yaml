@@ -115,9 +115,8 @@ teams:
       - bzp99
   - name: hoprs-maintainers
     maintainers:
-      - ryjones
-    members:
       - humannyty
+    members:
       - dxnn
   - name: identity-bot-maintainers
     maintainers:
@@ -142,13 +141,9 @@ teams:
       - VRamakrishna
   - name: os-frontiers-maintainers
     maintainers:
-      - ryjones
-    members:
       - ThatGuyLLC
   - name: onboard-diagnostics-maintainers
     maintainers:
-      - ryjones
-    members:
       - Mateja3m
   - name: opendecentra-nextg-maintainers
     maintainers:
@@ -156,15 +151,11 @@ teams:
   - name: proof-of-process-maintainers
     maintainers:
       - dcondrey
-    members: []
   - name: proof-of-process-admins
     maintainers:
       - dcondrey
-    members: []
   - name: rethv-maintainers
     maintainers:
-      - ryjones
-    members:
       - salaheldinsoliman
   - name: security-managers
     maintainers:
@@ -197,9 +188,8 @@ teams:
       - xkxiao
   - name: veltoracore-committers
     maintainers:
-      - ryjones
-    members:
       - begrossi
+    members:
       - henrique-videira
       - raijoma123
   - name: waterfall-committers
