@@ -78,6 +78,7 @@ teams:
     members:
       - pramodkvarma
       - surendrasinghs
+      - anusree-j
   - name: fabino-test-maintainers
     maintainers:
       - aminchegeni
