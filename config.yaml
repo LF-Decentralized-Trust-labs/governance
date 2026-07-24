@@ -2,14 +2,14 @@ teams:
   - name: agora-glass-pumpkin-maintainers
     maintainers:
       - mikelodder7
-  - name: agora-lab-admins
-    maintainers:
-      - mikelodder7
   - name: agora-key-share-proofs-maintainers
     maintainers:
       - mikelodder7
     members:
       - nglaeser
+  - name: agora-lab-admins
+    maintainers:
+      - mikelodder7
   - name: aries-bbs-maintainers
     maintainers:
       - andrewwhitehead
@@ -35,40 +35,40 @@ teams:
     maintainers:
       - carolacnet
     members:
-      - BernardoPaniaguaCEMLA
-      - JulioRodB
-      - MaxMitre
-      - jferreira9620
-      - leninortiz
-      - nayamhb
-      - Andres-BCRD
-      - jushua
-      - HChitman
-      - camposmm-mar
-      - betoencinas
-      - josegabrielsv
-      - lddia
-      - sergiobcrd
-      - markymark021282
-      - samuelvenzi
-      - LFJeronymo
-      - andremacedopv
-      - lucas-campelo
-      - goledger
-      - lukasjhan
-      - aceshim
-      - Jymmbo
-      - alvaroacev
-      - robertomorenoallien
-      - rafael-nuam
-      - yuricarrillo-wq
-      - linaparral
-      - YennyReina
-      - adcjc
-      - JohnVillaDVL
-      - santim9393-maker
-      - sergiofontalvo-alliance
       - 0xregulus
+      - Andres-BCRD
+      - BernardoPaniaguaCEMLA
+      - HChitman
+      - JohnVillaDVL
+      - JulioRodB
+      - Jymmbo
+      - LFJeronymo
+      - MaxMitre
+      - YennyReina
+      - aceshim
+      - adcjc
+      - alvaroacev
+      - andremacedopv
+      - betoencinas
+      - camposmm-mar
+      - goledger
+      - jferreira9620
+      - josegabrielsv
+      - jushua
+      - lddia
+      - leninortiz
+      - linaparral
+      - lucas-campelo
+      - lukasjhan
+      - markymark021282
+      - nayamhb
+      - rafael-nuam
+      - robertomorenoallien
+      - samuelvenzi
+      - santim9393-maker
+      - sergiobcrd
+      - sergiofontalvo-alliance
+      - yuricarrillo-wq
   - name: chaindeploy-maintainers
     maintainers:
       - dviejokfs
@@ -81,6 +81,9 @@ teams:
   - name: fabino-test-maintainers
     maintainers:
       - aminchegeni
+  - name: fabric-rust-maintainers
+    maintainers:
+      - arne-fuchs
   - name: fabric-x-ansible-collection-maintainers
     maintainers:
       - iliecirciumaru
@@ -90,11 +93,8 @@ teams:
     maintainers:
       - farooqazamwasimnl
     members:
-      - liran-funaro
       - cendhu
-  - name: fabric-rust-maintainers
-    maintainers:
-      - arne-fuchs
+      - liran-funaro
   - name: flavum-maintainers
     maintainers:
       - Daniel-Szego
@@ -104,16 +104,16 @@ teams:
     members:
       - Parvm1102
       - Ronit-Raj9
-  - name: hypernate-maintainers
-    maintainers:
-      - aklenik
-    members:
-      - bzp99
   - name: hoprs-maintainers
     maintainers:
       - humannyty
     members:
       - dxnn
+  - name: hypernate-maintainers
+    maintainers:
+      - aklenik
+    members:
+      - bzp99
   - name: identity-bot-maintainers
     maintainers:
       - bobert600
@@ -123,31 +123,46 @@ teams:
     maintainers:
       - mbrandenburger
     members:
+      - EnriqueL8
+      - OsamaRab3
+      - VRamakrishna
       - alvaropicazo
       - arsulegai
       - dmueller2001
-      - EnriqueL8
       - hendrikebbers
       - kkaur01
       - kmillikin
       - matthew1001
-      - OsamaRab3
       - tock-ibm
       - vipinsun
-      - VRamakrishna
-  - name: os-frontiers-maintainers
+  - name: naryo-maintainers
     maintainers:
-      - ThatGuyLLC
+      - IvanSaizIOB
+      - adovale-IOB
+      - romangzz
+    members:
+      - SergioIOB
+      - franpersanchez
+      - lfrKain
+      - marcosio
+      - mtxasko
+      - ppolo23
   - name: onboard-diagnostics-maintainers
     maintainers:
       - Mateja3m
+  - name: one-attestation-api-maintainers
+    maintainers:
+      - bvavala
   - name: opendecentra-nextg-maintainers
     maintainers:
       - Rudrakshrawal
-  - name: proof-of-process-maintainers
+  - name: os-frontiers-maintainers
+    maintainers:
+      - ThatGuyLLC
+  - name: proof-of-process-admins
     maintainers:
       - dcondrey
-  - name: proof-of-process-admins
+  - name: proof-of-process-maintainers
     maintainers:
       - dcondrey
   - name: rethv-maintainers
@@ -156,24 +171,15 @@ teams:
   - name: security-managers
     maintainers:
       - ryjones
-    members:
       - hartm
-      - jwagantall
-  - name: naryo-maintainers
-    maintainers:
-      - romangzz
-      - adovale-IOB
-      - IvanSaizIOB
     members:
-      - marcosio
-      - ppolo23
-      - lfrKain
-      - SergioIOB
-      - franpersanchez
-      - mtxasko
-  - name: one-attestation-api-maintainers
+      - jwagantall
+  - name: veltoracore-committers
     maintainers:
-      - bvavala
+      - begrossi
+    members:
+      - henrique-videira
+      - raijoma123
   - name: verazt-committers
     maintainers:
       - taquangtrung
@@ -182,15 +188,12 @@ teams:
       - minhhn2910
       - ooibc
       - xkxiao
-  - name: veltoracore-committers
-    maintainers:
-      - begrossi
-    members:
-      - henrique-videira
-      - raijoma123
   - name: waterfall-committers
     maintainers:
       - on-waterfall
+  - name: zk-learning-group-committers
+    maintainers:
+      - Daniel-Szego
   - name: zkbk-committers
     maintainers:
       - rsinha
@@ -200,9 +203,6 @@ teams:
       - hartm
       - keewoolee
       - sanjamg
-  - name: zk-learning-group-committers
-    maintainers:
-      - Daniel-Szego
   - name: zkproof-polycommit-committers
     maintainers:
       - therealyingtong
@@ -247,11 +247,6 @@ repositories:
       agora-lab-admins: admin
       security-managers: read
     visibility: public
-#  - name: ap3
-#    teams:
-#      ap3-maintainers: maintain
-#      security-managers: read
-#    visibility: public
   - name: aries-bbssignatures-rs
     teams:
       aries-bbs-maintainers: maintain
