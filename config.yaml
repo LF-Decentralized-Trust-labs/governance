@@ -10,11 +10,6 @@ teams:
       - mikelodder7
     members:
       - nglaeser
-  - name: ap3-maintainers
-    maintainers:
-      - ryjones
-    members:
-      - fridgebuyer
   - name: aries-bbs-maintainers
     maintainers:
       - andrewwhitehead
