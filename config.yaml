@@ -22,12 +22,6 @@ teams:
       - conanoc
     members:
       - TheTreek
-  - name: artizyou-maintainers
-    maintainers:
-      - MuhammadRizwanMughal
-    members:
-      - SamDrissi
-      - rgagnon
   - name: bots
     maintainers:
       - lfdt-bot
@@ -79,9 +73,6 @@ teams:
       - pramodkvarma
       - surendrasinghs
       - Anusree-J
-  - name: fabino-test-maintainers
-    maintainers:
-      - aminchegeni
   - name: fabric-rust-maintainers
     maintainers:
       - arne-fuchs
@@ -96,9 +87,6 @@ teams:
     members:
       - cendhu
       - liran-funaro
-  - name: flavum-maintainers
-    maintainers:
-      - Daniel-Szego
   - name: gitmesh-committers
     maintainers:
       - RAWx18
@@ -151,12 +139,6 @@ teams:
   - name: onboard-diagnostics-maintainers
     maintainers:
       - Mateja3m
-  - name: one-attestation-api-maintainers
-    maintainers:
-      - bvavala
-  - name: opendecentra-nextg-maintainers
-    maintainers:
-      - Rudrakshrawal
   - name: os-frontiers-maintainers
     maintainers:
       - ThatGuyLLC
@@ -268,11 +250,6 @@ repositories:
       aries-labs-maintainers: maintain
       security-managers: read
     visibility: public
-  - name: artizyou
-    teams:
-      artizyou-maintainers: maintain
-      security-managers: read
-    visibility: public
   - name: cbweb3
     teams:
       cbweb3-maintainers: maintain
@@ -289,13 +266,6 @@ repositories:
     teams:
       bots: maintain
       decentralized-directory-protocol-maintainers: maintain
-      lab-stewards: maintain
-      security-managers: read
-    visibility: public
-  - name: fabino-test
-    teams:
-      bots: maintain
-      fabino-test-maintainers: maintain
       lab-stewards: maintain
       security-managers: read
     visibility: public
@@ -322,13 +292,6 @@ repositories:
     teams:
       bots: maintain
       fabric-rust-maintainers: maintain
-      lab-stewards: maintain
-      security-managers: read
-    visibility: public
-  - name: flavum
-    teams:
-      bots: maintain
-      flavum-maintainers: maintain
       lab-stewards: maintain
       security-managers: read
     visibility: public
@@ -398,20 +361,6 @@ repositories:
       bots: maintain
       lab-stewards: maintain
       onboard-diagnostics-maintainers: maintain
-      security-managers: read
-    visibility: public
-  - name: one-attestation-api
-    teams:
-      bots: maintain
-      lab-stewards: maintain
-      one-attestation-api-maintainers: maintain
-      security-managers: read
-    visibility: public
-  - name: opendecentra-nextg
-    teams:
-      bots: maintain
-      lab-stewards: maintain
-      opendecentra-nextg-maintainers: maintain
       security-managers: read
     visibility: public
   - name: proof-of-process
