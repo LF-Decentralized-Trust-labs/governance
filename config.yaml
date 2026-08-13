@@ -86,6 +86,11 @@ teams:
     members:
       - cendhu
       - liran-funaro
+  - name: fabricops-maintainers
+    maintainers:
+      - ryjones
+    members:
+      - dpereowei
   - name: gitmesh-committers
     maintainers:
       - RAWx18
@@ -292,6 +297,13 @@ repositories:
   - name: fabric-x-block-explorer
     teams:
       fabric-x-block-explorer-committers: maintain
+      security-managers: read
+    visibility: public
+  - name: FabricOps
+    teams:
+      bots: maintain
+      fabricops-maintainers: maintain
+      lab-stewards: maintain
       security-managers: read
     visibility: public
   - name: gitmesh
