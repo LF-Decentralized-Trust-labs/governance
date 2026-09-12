@@ -175,9 +175,6 @@ teams:
       - minhhn2910
       - ooibc
       - xkxiao
-  - name: waterfall-committers
-    maintainers:
-      - on-waterfall
   - name: zk-learning-group-committers
     maintainers:
       - Daniel-Szego
@@ -400,18 +397,6 @@ repositories:
       bots: admin
       security-managers: read
       verazt-committers: write
-    visibility: public
-  - name: waterfall-docs
-    teams:
-      bots: admin
-      security-managers: read
-      waterfall-committers: maintain
-    visibility: public
-  - name: waterfall-one-click-setup-app
-    teams:
-      bots: admin
-      security-managers: read
-      waterfall-committers: maintain
     visibility: public
   - name: zk-learning-group
     teams:
