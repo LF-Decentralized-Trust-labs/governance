@@ -72,6 +72,8 @@ teams:
       - pramodkvarma
       - surendrasinghs
       - Anusree-J
+      - nirmalnr
+      - nirmay
   - name: fabric-rust-maintainers
     maintainers:
       - arne-fuchs
