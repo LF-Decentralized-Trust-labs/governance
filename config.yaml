@@ -357,6 +357,7 @@ repositories:
     teams:
       bots: maintain
       lab-stewards: maintain
+      lf-staff: maintain
       security-managers: read
     visibility: public
   - name: Naryo
