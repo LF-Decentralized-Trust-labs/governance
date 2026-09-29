@@ -15,8 +15,8 @@ teams:
       - andrewwhitehead
       - swcurran
     members:
-      - WadeBarnes
       - mikelodder7
+      - WadeBarnes
   - name: aries-labs-maintainers
     maintainers:
       - conanoc
@@ -25,35 +25,35 @@ teams:
   - name: bots
     maintainers:
       - lfdt-bot
+      - thelinuxfoundation
   - name: cbweb3-maintainers
     maintainers:
       - carolacnet
     members:
       - 0xregulus
-      - Andres-BCRD
-      - BernardoPaniaguaCEMLA
-      - HChitman
-      - JohnVillaDVL
-      - JulioRodB
-      - Jymmbo
-      - LFJeronymo
-      - MaxMitre
-      - YennyReina
       - aceshim
       - adcjc
       - andremacedopv
+      - Andres-BCRD
+      - BernardoPaniaguaCEMLA
       - betoencinas
       - camposmm-mar
       - goledger
+      - HChitman
       - jferreira9620
+      - JohnVillaDVL
       - josegabrielsv
+      - JulioRodB
       - jushua
+      - Jymmbo
       - lddia
       - leninortiz
+      - LFJeronymo
       - linaparral
       - lucas-campelo
       - lukasjhan
       - markymark021282
+      - MaxMitre
       - nayamhb
       - rafael-nuam
       - robertomorenoallien
@@ -61,6 +61,7 @@ teams:
       - santim9393-maker
       - sergiobcrd
       - sergiofontalvo-alliance
+      - YennyReina
       - yuricarrillo-wq
   - name: chaindeploy-maintainers
     maintainers:
@@ -69,11 +70,11 @@ teams:
     maintainers:
       - amarts
     members:
-      - pramodkvarma
-      - surendrasinghs
       - Anusree-J
       - nirmalnr
       - nirmay
+      - pramodkvarma
+      - surendrasinghs
   - name: fabric-rust-maintainers
     maintainers:
       - arne-fuchs
@@ -118,30 +119,36 @@ teams:
     maintainers:
       - mbrandenburger
     members:
-      - EnriqueL8
-      - OsamaRab3
-      - VRamakrishna
       - alvaropicazo
       - arsulegai
       - dmueller2001
+      - EnriqueL8
       - hendrikebbers
       - kkaur01
       - kmillikin
       - matthew1001
+      - OsamaRab3
       - tock-ibm
       - vipinsun
+      - VRamakrishna
+  - name: lf-staff
+    maintainers:
+      - hartm
+      - ryjones
+    members:
+      - jwagantall
   - name: naryo-maintainers
     maintainers:
-      - IvanSaizIOB
       - adovale-IOB
+      - IvanSaizIOB
       - romangzz
     members:
-      - SergioIOB
       - franpersanchez
       - lfrKain
       - marcosio
       - mtxasko
       - ppolo23
+      - SergioIOB
   - name: onboard-diagnostics-maintainers
     maintainers:
       - Mateja3m
@@ -159,8 +166,8 @@ teams:
       - salaheldinsoliman
   - name: security-managers
     maintainers:
-      - ryjones
       - hartm
+      - ryjones
     members:
       - jwagantall
   - name: veltoracore-committers
