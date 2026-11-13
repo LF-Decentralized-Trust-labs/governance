@@ -78,11 +78,6 @@ teams:
   - name: fabric-rust-maintainers
     maintainers:
       - arne-fuchs
-  - name: fabric-x-ansible-collection-maintainers
-    maintainers:
-      - iliecirciumaru
-    members:
-      - pasquale95
   - name: fabric-x-block-explorer-committers
     maintainers:
       - farooqazamwasimnl
@@ -290,13 +285,6 @@ repositories:
     teams:
       bots: maintain
       fabric-rust-maintainers: maintain
-      lab-stewards: maintain
-      security-managers: read
-    visibility: public
-  - name: fabric-x-ansible-collection
-    teams:
-      bots: maintain
-      fabric-x-ansible-collection-maintainers: maintain
       lab-stewards: maintain
       security-managers: read
     visibility: public
