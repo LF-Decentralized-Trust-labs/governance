@@ -78,12 +78,6 @@ teams:
   - name: fabric-rust-maintainers
     maintainers:
       - arne-fuchs
-  - name: fabric-x-block-explorer-committers
-    maintainers:
-      - farooqazamwasimnl
-    members:
-      - cendhu
-      - liran-funaro
   - name: fabricops-maintainers
     maintainers:
       - ryjones
@@ -286,11 +280,6 @@ repositories:
       bots: maintain
       fabric-rust-maintainers: maintain
       lab-stewards: maintain
-      security-managers: read
-    visibility: public
-  - name: fabric-x-block-explorer
-    teams:
-      fabric-x-block-explorer-committers: maintain
       security-managers: read
     visibility: public
   - name: FabricOps
